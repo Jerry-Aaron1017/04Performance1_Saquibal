@@ -27,7 +27,7 @@
         /// the contents of this method with the code editor.
         /// </summary>
         
-        private System.Windows.Forms.Label label1;  
+        private System.Windows.Forms.Label label1;   
         private void InitializeComponent()
         {
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -99,7 +99,7 @@
             this.Given_Word.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.Given_Word.Font = new System.Drawing.Font("Calibri", 22F, System.Drawing.FontStyle.Bold);
             this.Given_Word.ForeColor = System.Drawing.Color.DarkOliveGreen;
-            this.Given_Word.Location = new System.Drawing.Point(49, 78);
+            this.Given_Word.Location = new System.Drawing.Point(49, 72);
             this.Given_Word.Name = "Given_Word";
             this.Given_Word.Size = new System.Drawing.Size(406, 141);
             this.Given_Word.TabIndex = 5;
